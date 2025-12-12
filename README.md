@@ -1,8 +1,8 @@
 # What I Do
-Design and development of automated security systems.   My work focuses on processing image and audio signals, to detect, analyze, and respond to security threats in real-time.
 
+Reseacrh, design and development of systems that input visual and/or audio signals for industrial process automation, transprot and security systems.
 
-# Languages
+## Languages
 - C
 - C++
-- Python
+- Java
